@@ -1,5 +1,5 @@
 # Classify-Radio-Signals-from-Space-using-Keras
-Completed Jupyter Notebook with SETI Data.
+Completed Jupyter Notebook with SETI Data
 
 Build and train a convolutional neural network (CNN) using Keras.
 Display results and plot 2D spectrograms with Python in Jupyter Notebook.
